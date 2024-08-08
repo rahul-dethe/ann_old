@@ -1,0 +1,5 @@
+# in MCCI.py file set the following parameter at line arround #23-26
+
+mlStart = 4
+mlPerSpace = 3
+spaceIncrease = 2000
